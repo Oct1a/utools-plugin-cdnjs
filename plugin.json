@@ -1,0 +1,13 @@
+{
+  "pluginName": "CDNJS",
+  "description": "本插件使用cdnjs.com提供的接口，快速搜索前端js库，提供CDN链接，实现快速开发测试。",
+  "author": "Oct1a",
+  "homepage": "http://oct1a.cn/",
+  "logo": "logo.png",
+  "preload": "preload.js",
+  "features": [{
+    "code": "cdnjs",
+    "explain": "快速搜索前端CDN资源仓库",
+    "cmds": ["cdn", "js", "js库"]
+  }]
+}
